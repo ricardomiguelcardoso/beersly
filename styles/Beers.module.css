@@ -1,0 +1,11 @@
+.article {
+    display: flex;
+    column-gap: 1rem;
+    margin-top: 1rem;
+}
+
+.article .image_container {
+    width: 200px;
+    height: 200px;
+    position: relative;
+}

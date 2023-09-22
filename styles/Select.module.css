@@ -1,0 +1,14 @@
+.slct {
+    background-color: white;
+    font-weight: bold;
+    padding: 0.5rem 0.8rem;
+    border-radius: 0.3rem;
+    border: 2px solid #000;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: #070D0D;
+}
+
+.slct:hover {
+    background-color: #ccc;
+}
